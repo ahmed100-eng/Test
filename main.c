@@ -8,4 +8,6 @@ int main(void)
 	
 	int y = 5;
 	
+	int z = 9;
+	
 }
